@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Deepak
-- 👀 I’m interested in coding and problem solving
-- 🌱 I’m currently learning ...
+- 👀 I’m interested in Coding and Problem Solving.
+- 🌱 I’m currently learning Physics, History, Coding.
 - 💞️ I’m looking to collaborate on python related projects.
 - 📫 You can reach me on +91-8861327919, dpkpr@outlook.com
 
